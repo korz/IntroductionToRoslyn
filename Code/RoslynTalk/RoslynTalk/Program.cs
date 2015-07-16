@@ -1,4 +1,4 @@
-﻿namespace RoslynTalk
+﻿﻿namespace RoslynTalk
 {
     class Program
     {

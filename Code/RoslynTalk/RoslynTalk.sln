@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 14.0.22823.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoslynTalk", "RoslynTalk\RoslynTalk.csproj", "{7975A081-5C5E-4C0B-B49A-67E54497C752}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoslynTalk", "RoslynTalk\RoslynTalk.csproj", "{B5528E4E-619A-467E-B033-860C9B8C32BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFix", "CodeFix\CodeFix.csproj", "{23D14154-DDEE-4A86-B61C-4F03BA5AFBC7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +18,14 @@ Global
 		{7975A081-5C5E-4C0B-B49A-67E54497C752}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7975A081-5C5E-4C0B-B49A-67E54497C752}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7975A081-5C5E-4C0B-B49A-67E54497C752}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5528E4E-619A-467E-B033-860C9B8C32BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5528E4E-619A-467E-B033-860C9B8C32BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5528E4E-619A-467E-B033-860C9B8C32BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5528E4E-619A-467E-B033-860C9B8C32BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23D14154-DDEE-4A86-B61C-4F03BA5AFBC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23D14154-DDEE-4A86-B61C-4F03BA5AFBC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23D14154-DDEE-4A86-B61C-4F03BA5AFBC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23D14154-DDEE-4A86-B61C-4F03BA5AFBC7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
